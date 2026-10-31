@@ -1,0 +1,5 @@
+run powershell as admin and go to the directory. copy/paste:
+
+
+ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+>> .\deploy-to-iis.ps1
