@@ -5,15 +5,15 @@
  */
 window.PORTAL_CONFIG = {
   // District or Organization Details
-  districtName: "Wesleyan Christian Video Surveillance",
+  districtName: "You business name Video Surveillance",
   portalTitle: "UniFi Protect Internal Access Portal",
   portalSubtitle: "Direct High-Speed Local Network Streaming for Principals & Administrators",
   
   // IT / Help Desk Contact Info
   itSupport: {
     department: "Technology Department",
-    phone: "Ext. 227 (HELP)",
-    email: "helpdesk@wcatrojans.org",
+    phone: "Ext. 000 (HELP)",
+    email: "helpdesk@xxxxx.org",
     hours: "Mon - Fri, 7:00 AM - 4:30 PM"
   },
 
@@ -39,8 +39,8 @@ window.PORTAL_CONFIG = {
       id: "nvr-early-ed",
       name: "Early Ed",
       model: "UniFi Protect NVR",
-      location: "Early Childhood Education Building",
-      ip: "10.10.42.2",
+      location: " Building",
+      ip: "10.10.0.0",
       port: 443,
       defaultView: "/protect",
       badgeColor: "amber",
@@ -56,7 +56,7 @@ window.PORTAL_CONFIG = {
       name: "NVR 1",
       model: "UniFi Protect NVR",
       location: "Campus Network Rack",
-      ip: "10.10.42.6",
+      ip: "10.10.0.0",
       port: 443,
       defaultView: "/protect",
       badgeColor: "blue",
@@ -72,7 +72,7 @@ window.PORTAL_CONFIG = {
       name: "NVR 2",
       model: "UniFi Protect NVR",
       location: "Campus Network Rack",
-      ip: "10.10.42.3",
+      ip: "10.10.0.0",
       port: 443,
       defaultView: "/protect",
       badgeColor: "green",
@@ -88,7 +88,7 @@ window.PORTAL_CONFIG = {
       name: "NVR 3",
       model: "UniFi Protect NVR",
       location: "Campus Network Rack",
-      ip: "10.10.42.4",
+      ip: "10.10.0.0",
       port: 443,
       defaultView: "/protect",
       badgeColor: "purple",
@@ -104,7 +104,7 @@ window.PORTAL_CONFIG = {
       name: "Enterprise NVR",
       model: "UniFi Protect Enterprise NVR",
       location: "Central Core MDF / Server Facility",
-      ip: "10.10.42.10",
+      ip: "10.10.0.0",
       port: 443,
       defaultView: "/protect",
       badgeColor: "blue",
